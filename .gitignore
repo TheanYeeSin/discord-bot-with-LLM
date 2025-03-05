@@ -1,3 +1,4 @@
 .env
 venv
 ollama
+__pycache__

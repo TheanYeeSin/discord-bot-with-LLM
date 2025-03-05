@@ -47,3 +47,10 @@ docker-compose -f docker-compose-ollama.yml up
 python main.py
 ```
 
+## Setup on Discord
+
+1. Add the bot to your server
+
+2. `/assign_channel #channel`
+
+3. Start talking in the channel
