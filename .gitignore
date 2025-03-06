@@ -2,3 +2,4 @@
 venv
 ollama
 __pycache__
+discord_bot.log
