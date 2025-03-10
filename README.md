@@ -54,3 +54,8 @@ python main.py
 2. `/assign_channel #channel`
 
 3. Start talking in the channel
+
+## Bot Command
+
+`/hello` - Say Hello
+`/assign_channel` - Assign the bot to a channel
